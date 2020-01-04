@@ -1,0 +1,31 @@
+# Metadata for Singapore Residents by Subzone, Age Group and Sex, Jun 2017 (Gender)
+---
+Identifier: '8e3d2b16-7d97-4aa0-883b-179f86805cd7'
+Name: 'singapore-residents-by-subzone-age-group-and-sex-jun-2017-gender'
+Title: 'Singapore Residents by Subzone, Age Group and Sex, Jun 2017 (Gender)'
+Description: 'Distribution of the resident population by planning area/subzone based
+  on URA MP14, age group and sex, Jun 2017'
+Topics:
+  - 'Society'
+Keywords:
+  - 'Age group and Sex'
+  - 'Singapore Residents by Planning Area'
+  - 'Subzone'
+Publisher:
+  Name: 'Ministry of Trade and Industry - Department of Statistics'
+  Admin 1:
+    Name: 'CA SLA'
+    Department: 'DEPARTMENT OF STATISTICS'
+    Email: 'sla_geospace@sla.gov.sg'
+Sources:
+  - 'Ministry of Trade and Industry - Department of Statistics'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Ad-hoc'
+Last Updated: '2018-11-08T02:35:53.825805'
+Resources:
+  -
+    Identifier: '6e02e5d1-c802-49d2-bd14-4819bc6ef2e2'
+    Title: 'Singapore Residents by Subzone, Age Group and Sex, Jun 2017 (Gender) (KML)'
+    Url: 'https://geo.data.gov.sg/subzone-age-gender-2017/2017/09/27/kml/subzone-age-gender-2017.kml'
+    Format: 'KML'
+    Last Updated: '2017-09-26T16:00:00'
